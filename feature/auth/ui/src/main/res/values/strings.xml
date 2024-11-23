@@ -1,0 +1,13 @@
+<resources>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="auction_image_description">Auction Image</string>
+    <string name="post_image_description">Post Image</string>
+    <string name="compare_image_description">Compare Image</string>
+    <string name="offer_image_description">Offer Image</string>
+    <string name="secure_image_description">Secure Image</string>
+    <string name="rate_image_description">Rate Image</string>
+
+    <string name="facebook_app_id">503656509049201</string>
+    <string name="fb_login_protocol_scheme">fb503656509049201</string>
+    <string name="facebook_client_token">539ef901f25bcda38f23c4bbf289bb2d</string>
+</resources>
